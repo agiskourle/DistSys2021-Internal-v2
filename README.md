@@ -1,5 +1,4 @@
 # Εσωτερικό Σύστημα - Οδηγίες Εκτέλεσης
-<p>1-File -> Import -> Git/Projects from Git -> Clone URI
-2-Convert project to Dynamic Web project (Project Facets -> Enable Faceted Project)
-3-Convert project to maven project (Configure->Convert to Maven Project) & Update
-</p>
+<p>1-File -> Import -> Git/Projects from Git -> Clone URI</p>
+<p>2-Convert the project to Dynamic Web project (Project Facets -> Enable Faceted Project)</p>
+<p>3-Convert the project to Maven project (Configure->Convert to Maven Project) & Update Project</p>
