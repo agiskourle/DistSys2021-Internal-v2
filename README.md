@@ -40,3 +40,8 @@ CREATE TABLE IF NOT EXISTS `authorities` (
  CONSTRAINT `fk_authorities_users` FOREIGN KEY (`username`) REFERENCES `user` (`username`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
   </p>
+  
+  <p>
+INSERT INTO `students` VALUES 
+ (12345,'Agis1','dit',9,1234456789,'12345@hua.gr',true,0,false,false,0,0,false);
+  </p>
